@@ -230,6 +230,19 @@ p {
     color: var(--color-orange);
     letter-spacing: 0.15em;
     text-transform: uppercase;
+}
+
+.logo-icon-img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+    margin-right: 8px;
+}
+
+.footer-attribution {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 0.75rem;
+    margin-top: 0.5rem;
     margin-top: 2px;
 }
 
